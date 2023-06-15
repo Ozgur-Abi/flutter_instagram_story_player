@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "500389842172",
+    "project_id": "insta-story-player",
+    "storage_bucket": "insta-story-player.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500389842172:android:08e7752319b8e96a421b79",
+        "android_client_info": {
+          "package_name": "com.example.flutter_instagram_story_player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500389842172-13vu27k5iuthlfkrbbqs97r5vvtetrd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFTOo5igilBfAhu6g2xoMAu6GuktEnpDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500389842172-13vu27k5iuthlfkrbbqs97r5vvtetrd3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
